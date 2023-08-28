@@ -9,4 +9,4 @@ insert_final_newline = false
 
 
 [*.{json,md,yaml}]
-indent_size = 2 
+indent_size = 2
